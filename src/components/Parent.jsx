@@ -15,6 +15,7 @@ const Parent = () => {
       {/* - ChangeWord is recieved with parameters
           - ChangeWord calls the setWord state
       */}
+      //Code
       <Child
         changeFirst={(word) => setWord(word)}
         changeSecond={(second) => setSName(second)}

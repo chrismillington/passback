@@ -12,7 +12,7 @@ const Child = (props) => {
     props.changeSecond(sName);
     props.changeLanguage(radio);
   };
-
+  // Help
   return (
     <div className="Child">
       <h2>Child</h2>
